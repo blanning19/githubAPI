@@ -4,12 +4,12 @@ react, for component driven Web UI
 react-bootstrap as css framework
 jquery, just as dependency, or if you really need it
 
-Installation
+##Installation
 
-Install node.js to get npm.
+-Install node.js to get npm.
 
-After successfull installation just call to get all packages
+##Run it
 
-npm install
-npm start
+-npm install
+-npm start
 
