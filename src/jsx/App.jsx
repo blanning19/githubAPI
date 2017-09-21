@@ -82,7 +82,7 @@ class App extends Component {
                 let repositories = data.map((rep) =>{
                     let link = 'https://github.com/' +username+ '/'+rep.name;
                     return(
-                        <li key={rep.id}><a href={link}> {rep.name} </a></li>
+                        <li key={rep.id}><a href={link} target="_blank"> {rep.name} </a></li>
                     )
                 })
             this.setState({
