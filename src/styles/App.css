@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+
+li.list-group-item:hover{
+  background-color:#b3e6ff;
+  cursor: pointer;
+  color: cadetblue;
+}
+
