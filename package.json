@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "githubAPI",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "jquery": "^2.2.4",
     "moment": "^2.18.1",
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.3",
@@ -15,8 +14,7 @@
     "react-loading-spinner": "^1.0.12",
     "react-router": "^3.0.2",
     "require": "^2.4.20",
-    "style-loader": "^0.12.4",
-    "vitullo-spinner": "^0.1.5"
+    "style-loader": "^0.12.4"
   },
   "scripts": {
     "start": "react-scripts start",
